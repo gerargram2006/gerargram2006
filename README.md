@@ -45,8 +45,9 @@
 
 [![Racha de Gerar en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gerargram2006&theme=radical)](https://github.com/gerargram2006)
 
-[![Estadísticas de Gerar](https://github-readme-stats.vercel.app/api?username=gerargram2006&show_icons=true&theme=radical)](https://github.com/gerargram2006)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gerargram2006&layout=compact&theme=radical)](https://github.com/gerargram2006)
+<br>
+
+[![Trofeos de Gerar](https://github-profile-trophy.vercel.app/?username=gerargram2006&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/gerargram2006)
 
 </div>
 
