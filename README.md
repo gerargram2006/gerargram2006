@@ -39,17 +39,32 @@
 
 ---
 
+## 🌟 Competencias y Habilidades Principales
+
+| ⚙️ Backend & Arquitectura | 🎨 UI/UX & Frontend | 🧠 Metodologías & Buenas Prácticas |
+| :--- | :--- | :--- |
+| **Desarrollo de APIs RESTful** | **Diseño de Interfaces (UI)** | **Control de Versiones (Git/GitHub)** |
+| **Modelado de Bases de Datos** | **Experiencia de Usuario (UX)** | **Código Limpio (Clean Code)** |
+| **Lógica de Servidor & Rutas** | **Maquetación Web Responsive** | **Resolución de Problemas Lógicos** |
+| **Consultas SQL Optimizadas** | **Prototipado en Figma** | **Trabajo Colaborativo & Ágil** |
+
+---
+
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
 
 [![Racha de Gerar en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gerargram2006&theme=radical)](https://github.com/gerargram2006)
 
-<br>
-
-[![Trofeos de Gerar](https://github-profile-trophy.vercel.app/?username=gerargram2006&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/gerargram2006)
-
 </div>
+
+---
+
+## 📬 ¡Conectemos!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gerargram_2006/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GerarGram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerar-rodrigo-camma-baldeon-18a5b23a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerargram2006)
 
 ---
 
