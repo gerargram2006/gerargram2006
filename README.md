@@ -42,8 +42,12 @@
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerargram2006&show_icons=true&theme=radical" alt="Estadísticas de Gerar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerargram2006&layout=compact&theme=radical" alt="Lenguajes más usados" />
+
+[![Racha de Gerar en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=gerargram2006&theme=radical)](https://github.com/gerargram2006)
+
+[![Estadísticas de Gerar](https://github-readme-stats.vercel.app/api?username=gerargram2006&show_icons=true&theme=radical)](https://github.com/gerargram2006)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gerargram2006&layout=compact&theme=radical)](https://github.com/gerargram2006)
+
 </div>
 
 ---
