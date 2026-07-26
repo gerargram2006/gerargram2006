@@ -1,12 +1,19 @@
-<!-- Profile Picture Section -->
+<!-- Banner Section -->
 <div align="center">
-  <img src="https://instagram.faqp2-1.fna.fbcdn.net/v/t51.2885-19/499071151_17933746104044130_5306478465659799225_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=instagram.faqp2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE24Omyaf2QyUD0ad0xX2IC-hHEBaIi8Cq0IXRTUhcMXtaCKpKT-uBeQjOPIxn4Wz0HYXQtr-5Rff90gzMsMEUT&_nc_ohc=GZetRZIB0K0Q7kNvwFQq6LJ&_nc_gid=nV-PYU8JRvGWg-epNwuIwA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQByoz4_XmoZDoHUYWrv0P-OB7li6J_HVbws-P3Iy4qJrw&oe=6A62E98B&_nc_sid=7a9f4b" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
+  <img src="gif patito.gif" alt="Banner Animado de Gerar">
   
-  # Hi! 👋 I'm Gerar Rodrigo Camma Baldeon
   ### 💻 Full-Stack Developer Trainee | Student at Tecsup
 </div>
 
+<br>
+
 Welcome to my GitHub! I am a passionate developer focused on bridging the gap between robust backends and dynamic user interfaces. I love building applications from the ground up.
+
+<!-- Profile Picture Section -->
+<div align="center">
+  <br>
+  <img src="https://instagram.faqp2-1.fna.fbcdn.net/v/t51.2885-19/499071151_17933746104044130_5306478465659799225_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=instagram.faqp2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE24Omyaf2QyUD0ad0xX2IC-hHEBaIi8Cq0IXRTUhcMXtaCKpKT-uBeQjOPIxn4Wz0HYXQtr-5Rff90gzMsMEUT&_nc_ohc=GZetRZIB0K0Q7kNvwFQq6LJ&_nc_gid=nV-PYU8JRvGWg-epNwuIwA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQByoz4_XmoZDoHUYWrv0P-OB7li6J_HVbws-P3Iy4qJrw&oe=6A62E98B&_nc_sid=7a9f4b" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
+</div>
 
 ---
 
@@ -32,6 +39,7 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -66,3 +74,5 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerargram2006)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gerargram_2006/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GerarGram)
+
+---
