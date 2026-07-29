@@ -63,7 +63,7 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 
 <div align="center">
 
-[![Gerar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gerargram2006&theme=radical)](https://github.com/gerargram2006)
+[![Gerar's GitHub Streak](https://streak-stats.demolab.com/?user=gerargram2006&theme=radical)](https://github.com/gerargram2006)
 
 </div>
 
