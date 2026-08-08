@@ -12,7 +12,7 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 <!-- Profile Picture Section -->
 <div align="center">
   <br>
-  <img src="https://instagram.faqp2-1.fna.fbcdn.net/v/t51.2885-19/499071151_17933746104044130_5306478465659799225_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=instagram.faqp2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE24Omyaf2QyUD0ad0xX2IC-hHEBaIi8Cq0IXRTUhcMXtaCKpKT-uBeQjOPIxn4Wz0HYXQtr-5Rff90gzMsMEUT&_nc_ohc=GZetRZIB0K0Q7kNvwFQq6LJ&_nc_gid=nV-PYU8JRvGWg-epNwuIwA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQByoz4_XmoZDoHUYWrv0P-OB7li6J_HVbws-P3Iy4qJrw&oe=6A62E98B&_nc_sid=7a9f4b" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
+  <img src="https://instagram.faqp2-1.fna.fbcdn.net/v/t51.2885-19/499071151_17933746104044130_5306478465659799225_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=instagram.faqp2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEupyzozBiTYsbptcwpoWGIcgITbtDAt9yIh8BVD1EohEUlrfi657n9EGhtkm887STu3ol9Q1-Hn8OvHKhALsc-&_nc_ohc=CsIP5j0NaiUQ7kNvwHzwqGw&_nc_gid=28G8Ncfhnv6M4F-6a9kRgg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQGNk36CQCb9eLXg1DjHyZFVLmd2a_jzKZpUYqKJzgryAA&oe=6A7D478B&_nc_sid=7a9f4b" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
 </div>
 
 ---
