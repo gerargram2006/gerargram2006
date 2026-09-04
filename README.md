@@ -2,7 +2,7 @@
 <div align="center">
   <img src="gif patito.gif" alt="Banner Animado de Gerar">
   
-  ### 💻 Full-Stack Developer Student | Student at Tecsup
+  ### 💻 Full-Stack Developer | Student at Tecsup
 </div>
 
 <br>
