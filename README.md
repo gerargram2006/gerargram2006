@@ -12,7 +12,7 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 <!-- Profile Picture Section -->
 <div align="center">
   <br>
-  <img src="https://instagram.faqp2-3.fna.fbcdn.net/v/t51.75761-19/499071151_17933746104044130_5306478465659799225_n.jpg?_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjAuQzMifQ%3D%3D&_nc_ohc=y0_XQTv4rFgQ7kNvwE7y0im&_nc_oc=Adr3H1bC1tf2ELhH23Qt918l6NNiehDyo2yk7dVKyHqb6kX6fShUIQ3wGeHw1kbPmK-HYxBRjz4XQVPMFEQa4_Gc&_nc_zt=24&_nc_ht=instagram.faqp2-3.fna&_nc_gid=oiE9ZnQitC5CLXSrsN2-Kw&_nc_ss=7b6a8&oh=00_AQEcTI_Kv_dnaZGySaEk4BZ6sP_3LGhTBtiegiYBxy3PAg&oe=6A96A574" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
+  <img src="gerargram2006.webp" alt="Gerar Rodrigo Camma Baldeon" width="180" height="180" style="border-radius: 50%; border: 3px solid #666; margin-bottom: 20px;"/>
 </div>
 
 ---
@@ -74,5 +74,3 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerargram2006)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gerargram_2006/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GerarGram)
-
----
