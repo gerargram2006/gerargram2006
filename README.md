@@ -2,7 +2,7 @@
 <div align="center">
   <img src="gif patito.gif" alt="Banner Animado de Gerar">
   
-  ### 💻 Full-Stack Developer | Student at Tecsup
+  ### 💻 Full-Stack Developer
 </div>
 
 <br>
@@ -19,7 +19,6 @@ Welcome to my GitHub! I am a passionate developer focused on bridging the gap be
 
 ## 🚀 About Me
 
-* 🎓 **Studying:** Software Design and Development at **Tecsup**.
 * 🌐 **Full-Stack Focus:** Experience building complete software lifecycles, from server logic to UI.
 * ⚙️ **Backend:** Crafting RESTful APIs, optimizing databases, and writing clean server-side code.
 * 🎨 **Frontend:** Designing and building modern, interactive, and responsive web interfaces.
